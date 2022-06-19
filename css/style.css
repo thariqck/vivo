@@ -1,0 +1,21 @@
+.collapse{
+    padding-left:200px
+}.mr-auto{
+    width: 150px;
+}.logo{
+    border-radius: 75px;
+    
+}.col img{
+    width: 20rem;
+}ul{
+    list-style: none;
+
+}header{
+    position: fixed;
+    width: 100%;
+}.bg-dark{
+    margin-top: 50px;
+}.mr-auto{
+    margin-left: 100px;
+    width: 100px;
+}
